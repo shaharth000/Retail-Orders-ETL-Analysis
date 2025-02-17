@@ -18,6 +18,10 @@ This project focuses on building an end-to-end ETL pipeline for a large retail d
 ## Toold Used
 
 **Python**: Data extraction, cleaning, and transformation.
+
 **MySQL**: Data storage and SQL analysis.
+
 **Kaggle API**; Automated dataset retrieval.
+
 **Pandas**: Data preprocessing and manipulation.
+
