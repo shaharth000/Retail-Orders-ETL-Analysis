@@ -1,4 +1,4 @@
-# Retail Orders ETL Analysis
+# Retail Orders ETL & Analysis
 ## Project Overview
 
 This project focuses on building an end-to-end ETL pipeline for a large retail dataset (2022–2023) and performing SQL-driven analysis to extract key business insights. The dataset was obtained via the Kaggle API, cleaned and transformed using Python (Pandas, NumPy), and then loaded into MySQL for structured analysis.
